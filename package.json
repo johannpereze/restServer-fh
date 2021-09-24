@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/johannpereze/restServer-fh/issues"
   },
-  "homepage": "https://github.com/johannpereze/restServer-fh#readme"
+  "homepage": "https://github.com/johannpereze/restServer-fh#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
 }
